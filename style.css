@@ -1,0 +1,69 @@
+.container{
+    height: 31.3rem;
+    width: 28rem;
+    position: absolute;
+    left: 40rem;
+    top: 202px;
+    background: #ffffff;
+    border: 1px solid #cdcdcd;
+}
+#input{
+    border: 1px solid #cdcdcd;
+    font-size: 30px;
+    height: 65px;
+    width: 410px;
+    margin-left: 11px;
+    margin-top: 1rem;
+}
+#plus{
+    border: 1px solid #cdcdcd;
+    margin-left: 9px;
+    height: 65px;
+    margin-top: 10px;
+    width: 100px;
+    font-size: 30px;
+}
+
+#minus{
+    border: 1px solid #cdcdcd;
+    margin-left: -315px;
+    height: 65px;
+    margin-top: 10px;
+    width: 100px;
+    font-size: 30px;
+}
+#multiply{
+    border: 1px solid #cdcdcd;
+    margin-left: -210px;
+    height: 65px;
+    margin-top: 10px;
+    width: 100px;
+    font-size: 30px;
+}
+#divide{
+    border: 1px solid #cdcdcd;
+    margin-left: -107px;
+    height: 65px;
+    margin-top: 10px;
+    width: 100px;
+    font-size: 30px;
+}
+#equal{
+    border: 1px solid #cdcdcd;
+    font-size: 30px;
+    margin-left: 363px;
+    position: absolute;
+    bottom: 1rem;
+    height: 303px;
+    width: 98px;
+    left: -24px;
+    background-color: #4e8ffe;
+    color: white;
+}
+
+#heading{
+    margin-left: 40rem;
+    margin-top: 9rem;
+    font-family: sans-serif;
+    font-size: 30px;
+}
